@@ -3,13 +3,13 @@ Multi-Cow Multi-Camera Trackin (An English version is under construction)
 
 ## 贡献 
 
-## 结果展示 
-==跨相机多牛只跟踪（n=3）== 
-![示例图片demo3](https://github.com/XingshiXu/MCMCT/blob/main/DEMO3fast%2000_00_00-00_00_30.gif) 
+## 结果展示  
+==跨相机多牛只跟踪（n=3）==  
+![示例图片demo3](https://github.com/XingshiXu/MCMCT/blob/main/DEMO3fast%2000_00_00-00_00_30.gif)  
 
-==跨相机多牛只跟踪（n=6）== 
+==跨相机多牛只跟踪（n=6）==  
 
-==跨相机多牛只跟踪（n=10）== 
+==跨相机多牛只跟踪（n=10）==  
 
 ## 实验过程 
 #### 安装地面控制点，以期实现图像坐标向世界坐标系的映射
