@@ -12,7 +12,7 @@ Multi-Cow Multi-Camera Trackin (An English version is under construction)
 
 ## 实验过程 
 #### 安装地面控制点，以期实现图像坐标向世界坐标系的映射
-![示例图片1]([https://github.com/XingshiXu/CAAID/blob/main/Example%20image1.jpg](https://github.com/XingshiXu/MCMCT/blob/main/%E6%8E%A7%E5%88%B6%E7%82%B9%E5%AE%89%E7%BD%AE.gif))
+![示例图片1](https://github.com/XingshiXu/MCMCT/blob/main/%E6%8E%A7%E5%88%B6%E7%82%B9%E5%AE%89%E7%BD%AE.gif)
 ## 代码与数据集 
 完整代码与数据集将在论文发表后公开
 
