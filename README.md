@@ -1,5 +1,5 @@
 # Multi-Cow Multi-Camera Tracking (MCMCT)
-Multi-Cow Multi-Camera Trackin (An English version is under construction) 
+## 📖 Multi-Cow Multi-Camera Tracking (An English version is under construction) 
 
 ## 贡献 
 
