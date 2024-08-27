@@ -1,7 +1,16 @@
 # Multi-Cow Multi-Camera Tracking (MCMCT)
 ## 📖 Multi-Cow Multi-Camera Tracking (An English version is under construction) 
 
-## 贡献 
+
+
+## 贡献  
+
+### 杰出的“相似工作”  
+[相似工作1_论文链接](https://drive.google.com/file/d/1ecdUNkKhlcNxA0ZbvaZBc8qJdrLHAmUV/view) 
+该工作实现了跨摄像头之间的猪🐖多目标跟踪，然而猪的真实空间位置没有获得。  
+[相似工作2_论文链接](https://www.sciencedirect.com/science/article/pii/S0168159123002046)  
+该工作实现了摄像头到真实空间位置之间的映射，为检测运动量和运动轨迹提供了前调条件，但是所有的跟踪过程人需要人工操作。  
+![相似工作的图片](https://github.com/XingshiXu/MCMCT/blob/main/multicam-tracking-of-pigs.gif)    
 
 ## 结果展示  
 ==跨相机多牛只跟踪（n=3）==  
