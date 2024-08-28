@@ -6,11 +6,13 @@
 ## 贡献  
 
 ### 杰出的“相似工作”  
-[相似工作1_论文链接](https://drive.google.com/file/d/1ecdUNkKhlcNxA0ZbvaZBc8qJdrLHAmUV/view) 
+[相似工作1_论文链接](https://drive.google.com/file/d/1ecdUNkKhlcNxA0ZbvaZBc8qJdrLHAmUV/view)   
 该工作实现了跨摄像头之间的猪🐖多目标跟踪，然而猪的真实空间位置没有获得。  
 [相似工作2_论文链接](https://www.sciencedirect.com/science/article/pii/S0168159123002046)  
 该工作实现了摄像头到真实空间位置之间的映射，为检测运动量和运动轨迹提供了前调条件，但是所有的跟踪过程人需要人工操作。  
-![相似工作的图片](https://github.com/XingshiXu/MCMCT/blob/main/multicam-tracking-of-pigs.gif)    
+[相似工作3 论文链接](https://link.springer.com/article/10.1007/s12264-022-00988-6)    
+该工作各个摄像头的视野范围是重合的，即侧视摄像头用于辅助俯视摄像头进行目标跟踪。  
+![相似工作1的图片](https://github.com/XingshiXu/MCMCT/blob/main/multicam-tracking-of-pigs.gif)    
 
 ## 结果展示  
 ==跨相机多牛只跟踪（n=3）==  
