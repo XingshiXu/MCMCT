@@ -21,7 +21,7 @@
 ![示例图片demo3](https://github.com/XingshiXu/MCMCT/blob/main/DEMO6fast%2000_00_00-00_00_30.gif)   
   
 ==跨相机多牛只跟踪（n=10）==  
-![示例图片demo3](https://github.com/XingshiXu/MCMCT/blob/main/DEMO10fast%2000_00_00-00_00_30.gif)    
+![示例图片demo3](https://github.com/XingshiXu/MCMCT/blob/main/DEMO10.gif)    
  
 ## 代码与数据集 
 数据集将在论文发表后公开  
