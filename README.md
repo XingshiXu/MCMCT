@@ -25,13 +25,13 @@
  
 ## 代码与数据集 
 数据集将在论文发表后公开  
-To find the dataset used in this study, please make sure all files are downloaded from [HERE](https://pan.baidu.com/s/1675c35QjB4OXbnwClF0zwQ):
+To find the dataset used in this study, please make sure all files are downloaded from [HERE](https://pan.baidu.com/s/1675c35QjB4OXbnwClF0zwQ):  
 
-Extraction code：please email at songhuaibo@nwsuaf.edu.cn; xingshixu@nwafu.edu.cn
+Extraction code：please email at songhuaibo@nwsuaf.edu.cn; xingshixu@nwafu.edu.cn  
 (Since the manuscript of our research is still under review, the data related to this research will be open sourced here after the manuscript is published.)
   
 
   
-你好吖！我们将持续的更新这一repo，以更加直观的展示这一工作的贡献。我们希望它能够一定程度的推动AI在畜牧业中的应用。同时我们的其他最新研究将展示在https://github.com/XingshiXu/HingsWorks  
-我们感谢编辑、审稿人以及潜在读者给予的帮助，祝工作开心，科研顺利，生活幸福！ 
+你好吖！我们将持续的更新这一repo，以更加直观的展示这一工作的贡献。我们希望它能够一定程度的推动AI在畜牧业中的应用。同时我们的其他最新研究将展示在https://github.com/XingshiXu/HingsWorks    
+我们感谢编辑、审稿人以及潜在读者给予的帮助，祝工作开心，科研顺利，生活幸福！   
 We thank the editors, reviewers and potential readers for their help. Best wishes for you!  
