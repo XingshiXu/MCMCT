@@ -5,7 +5,8 @@
   
 ## 贡献  
 ![示例图片1](https://github.com/XingshiXu/MCMCT/blob/main/%E8%AE%BA%E6%96%87.jpg)  
-  
+![示例图片2](https://github.com/XingshiXu/MCMCT/blob/main/English.jpg)   
+   
 ### 杰出的“相似工作”  
 [相似工作1_论文链接](https://drive.google.com/file/d/1ecdUNkKhlcNxA0ZbvaZBc8qJdrLHAmUV/view): 
 该工作实现了跨摄像头之间的猪多目标跟踪🐖，然而猪的真实空间位置没有获得。  
