@@ -34,7 +34,7 @@ Extraction code：please email at songhuaibo@nwsuaf.edu.cn; xingshixu@nwafu.edu.
 
 ============================================================   
   
-Hi! We will continue to update the repo to more intuitively demonstrate the contribution of this work. We hope that it can promote the application of AI in animal husbandry to some extent.   
+Hi, there! We will continue to update the repo to more intuitively demonstrate the contribution of this work. We hope that it can promote the application of AI in animal husbandry to some extent.   
 We thank the editors, reviewers and potential readers for their help. Best wishes for you!   
 你好吖！我们将持续的更新这一repo，以更加直观的展示这一工作的贡献。我们希望它能够一定程度的推动AI在畜牧业中的应用。同时我们的其他最新研究将展示在https://github.com/XingshiXu/HingsWorks    
 我们感谢编辑、审稿人以及潜在读者给予的帮助，祝工作开心，科研顺利，生活幸福！   
