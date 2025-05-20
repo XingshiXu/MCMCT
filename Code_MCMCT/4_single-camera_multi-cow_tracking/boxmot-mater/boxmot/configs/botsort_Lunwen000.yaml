@@ -1,0 +1,20 @@
+# Trial number:      0
+# HOTA, MOTA, IDF1:  [37.804, 19.34, 34.483]
+# 嵌入特征的阈值
+appearance_thresh: 0.7 #0.8
+#appearance_thresh: 0.7636154550757781
+cmc_method: sparseOptFlow
+conf: 0.4828271520496597
+frame_rate: 5
+lambda_: 0.9764964093204093
+match_thresh: 0.2218
+#match_thresh: 0.22182609980772128
+new_track_thresh: 0.5
+#new_track_thresh: 0.25855770885476126
+
+# IoU的阈值
+proximity_thresh: 0.6
+#proximity_thresh: 0.37262205760353817
+track_buffer: 5000
+track_high_thresh: 0.85
+track_low_thresh: 0.3
