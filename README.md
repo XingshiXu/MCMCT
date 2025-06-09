@@ -29,8 +29,9 @@ This work applied georeferencing tools to link pixel coordinates to real-world c
  
 #  Dataset (数据集) 
 To find the dataset used in this study, please make sure all files are downloaded from [HERE](https://pan.baidu.com/s/1bgr4MZR-M1RbucQ1gV_HLw):  
+Note: You need to prepare a disk space larger than 166.09G.  
 Extraction code：please email at songhuaibo@nwsuaf.edu.cn; xingshixu@nwafu.edu.cn  
-(Since the manuscript of our research is still under review, the data related to this research will be open sourced here after the manuscript is published.)
+
   
 
 ============================================================   
