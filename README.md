@@ -1,7 +1,6 @@
 # Multi-Cow Multi-Camera Tracking (MCMCT)![](https://img.shields.io/badge/contributor-XingshiXu-brightgreen.svg)  ![](https://img.shields.io/badge/State-Updating-orange.svg)
 ## 📖 Multi-Cow Multi-Camera Tracking  
 
-This work was accepted by _Expert Systems With Application_ in June 2025
   
 # Contribution (本研究的贡献)  
 ![示例图片0](https://github.com/XingshiXu/MCMCT/blob/main/%E6%B5%B7%E6%8A%A5_02.jpg)  
