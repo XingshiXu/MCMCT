@@ -5,7 +5,6 @@ This work was accepted by _Expert Systems With Application_ in June 2025
   
 # Contribution (本研究的贡献)  
 ![示例图片0](https://github.com/XingshiXu/MCMCT/blob/main/%E6%B5%B7%E6%8A%A5_02.jpg)  
-![示例图片1](https://github.com/XingshiXu/MCMCT/blob/main/%E8%AE%BA%E6%96%87.jpg)  
 
    
 # Similar work  
@@ -29,7 +28,7 @@ This work applied georeferencing tools to link pixel coordinates to real-world c
  
 #  Dataset  
 To find the dataset used in this study, please make sure all files are downloaded from [HERE](https://pan.baidu.com/s/1bgr4MZR-M1RbucQ1gV_HLw):  
-
+(The project is still ongoing, the complete data set remains under protection. Therefore, at this stage, we released part of the data set.)
 
   
 
